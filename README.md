@@ -17,3 +17,4 @@ Im Normallfall ist die Video Station (VS) verstaut und alle Zubehörteile befind
 Aus dem Unterschrank die beiden Tischmikrofone und die Fernsteuerungen (Beamer & RALLY BAR) entnehmen und auf dem Konferentisch platzieren.
 <br><br>
 <img width="400" src="https://github.com/makerspace-wi/Video-Station/assets/42463588/6f0a0488-0999-4d29-8db8-78f2f2a0b00c">
+<p>abcd</p>
