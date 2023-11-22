@@ -1,3 +1,3 @@
 # Video-Station
 Anleitung zur Nutzung unserer RALLY BAR Video Station
-![IMG_3375](https://github.com/makerspace-wi/Video-Station/assets/42463588/5eea353b-70a5-4e82-a443-62303442395a)
+![IMG_3304](https://github.com/makerspace-wi/Video-Station/assets/42463588/6aa6548d-17a6-4bee-b7f9-b8c1a0a21f26)
