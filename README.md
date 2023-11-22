@@ -11,6 +11,3 @@ ACHTUNG BESONDERS WICHTIG:<br>Bevor die VS zur Benutzung vorbereitet wird, muss 
 <br>Danach kann die Cameraeinheit mit 2 Händen so weit hochgeklappt werden, bis der Haltemechanismus hörbar einrastet.
 <img width="400" alt="Box_2" src="https://github.com/makerspace-wi/Video-Station/assets/42463588/16d82d46-f2f5-4ba8-b351-dded89e707d5"><br>
 <img width="400" alt="Box_2" src="https://github.com/makerspace-wi/Video-Station/assets/42463588/cf03dc49-3e47-44d5-8060-15191cafe794"><img width="400" alt="Box_2" src="https://github.com/makerspace-wi/Video-Station/assets/42463588/e915e463-75de-4789-bd64-9496b1e28a1d">
-
-
-
