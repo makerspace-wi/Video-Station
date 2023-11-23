@@ -19,7 +19,7 @@ Aus dem Unterschrank die beiden Tischmikrofone und die Fernsteuerungen (Beamer &
 <img width="400" src="https://github.com/makerspace-wi/Video-Station/assets/42463588/6f0a0488-0999-4d29-8db8-78f2f2a0b00c">
 <p>Zu diesem Zeitpunkt kann die Leinwand für den Beamer herabgelassen werden und zwar bis zur Oberkante der VS</p>
 <H2>Einschalten der Anlage</H2>
-Die Steckdosenleiste mit Schalter befindet sich un dem 'Conference Room PC'
+Die Steckdosenleiste mit Schalter befindet sich unter dem 'Conference Room PC'
 <br>
 <img width="400" src="https://github.com/makerspace-wi/Video-Station/assets/42463588/5c481550-5248-491c-807b-fc9e7285a9ef">
 <img width="400" src="https://github.com/makerspace-wi/Video-Station/assets/42463588/c97b9187-ea90-4fae-b460-5ea52f74b29f">
