@@ -25,3 +25,6 @@ Die Steckdosenleiste mit Schalter befindet sich un dem 'Conference Room PC'
 <img width="400" src="https://github.com/makerspace-wi/Video-Station/assets/42463588/c97b9187-ea90-4fae-b460-5ea52f74b29f">
 <br>
 Mit dem Einschalten der Steckdosenleise wird die RALLY BAR und auch der PC bestromt - der noch mit der rechten runden Taste aktiviert wird.
+<br>
+<img width="600" src="https://github.com/makerspace-wi/Video-Station/assets/42463588/afd8b756-f3f9-44e8-bbb2-e03cd9bca2cd">
+<br>
