@@ -21,8 +21,6 @@ Aus dem Unterschrank die beiden Tischmikrofone und die Fernsteuerungen (Beamer &
 <H2>Einschalten der Anlage</H2>
 Die Steckdosenleiste mit Schalter befindet sich un dem 'Conference Room PC'
 <br>
-Mit dem Einschalten der Steckdosenleise wird die RALLY BAR und auch der PC bestromt - der noch mit der rechten runden Taste aktiviert wird.
-
 <img width="400" src="https://github.com/makerspace-wi/Video-Station/assets/42463588/5c481550-5248-491c-807b-fc9e7285a9ef">
 <img width="400" src="https://github.com/makerspace-wi/Video-Station/assets/42463588/c97b9187-ea90-4fae-b460-5ea52f74b29f">
-<img width="600" src="https://github.com/makerspace-wi/Video-Station/assets/42463588/cdfd32b2-cf57-4ff5-a9de-88fccfdf078b">
+Mit dem Einschalten der Steckdosenleise wird die RALLY BAR und auch der PC bestromt - der noch mit der rechten runden Taste aktiviert wird.
