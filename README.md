@@ -6,6 +6,7 @@ Anleitung zur Nutzung unserer RALLY BAR Video Station
 Im Normallfall ist die Video Station (VS) verstaut und alle Zubehörteile befinden sich im Schrank unter der Camera.
 
 <H3>ACHTUNG BESONDERS WICHTIG:</H3><br>Bevor die VS zur Benutzung vorbereitet wird, muss unbedingt die hintere Abdeckleiste herausgenommen und verstaut werden.
+<br>
 <img width="400" alt="Box_2" src="https://github.com/makerspace-wi/Video-Station/assets/42463588/81126fa9-84d1-4a37-a64d-66546f52fdc6"><img width="400" alt="Box_2" src="https://github.com/makerspace-wi/Video-Station/assets/42463588/b03de421-ca90-4040-9b20-0db0bcbefa2a">
 <br><br>Danach die Cameraeinheit mit 2 Händen hochklappen, bis der Haltemechanismus hörbar einrastet.
 <br><br>
@@ -18,3 +19,6 @@ Aus dem Unterschrank die beiden Tischmikrofone und die Fernsteuerungen (Beamer &
 <img width="400" src="https://github.com/makerspace-wi/Video-Station/assets/42463588/6f0a0488-0999-4d29-8db8-78f2f2a0b00c">
 <p>Zu diesem Zeitpunkt kann die Leinwand für den Beamer herabgelassen werden und zwar bis zur Oberkante der VS</p>
 <H2>Einschalten der Anlage</H2>
+Die Steckdosenleiste mit Schalter befindet sich un dem 'Conference Room PC'
+<br>
+Mit dem Einschalten der Steckdosenleise wird die RALLY BAR und auch der PC bestromt - der noch mit der rechten runden Taste aktiviert wird.
