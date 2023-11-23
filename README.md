@@ -28,3 +28,5 @@ Mit dem Einschalten der Steckdosenleise wird die RALLY BAR und auch der PC bestr
 <br>
 <img width="600" src="https://github.com/makerspace-wi/Video-Station/assets/42463588/afd8b756-f3f9-44e8-bbb2-e03cd9bca2cd">
 <br>
+Der PC fährt hoch und verbindet sich mit der VS und zeigt folgenden Desktop
+<br>
