@@ -14,7 +14,7 @@ Im Normallfall ist die Video Station (VS) verstaut und alle Zubehörteile befind
 <br><br>
 <img width="400" alt="Box_2" src="https://github.com/makerspace-wi/Video-Station/assets/42463588/e915e463-75de-4789-bd64-9496b1e28a1d"><img width="400" alt="Box_2" src="https://github.com/makerspace-wi/Video-Station/assets/42463588/cf03dc49-3e47-44d5-8060-15191cafe794">
 <br><br>
-Aus dem Unterschrank die beiden Tischmikrofone und die Fernsteuerungen (Beamer & RALLY BAR) entnehmen und auf dem Konferentisch platzieren.
+Aus dem Unterschrank die beiden Tischmikrofone und die Fernsteuerungen (Beamer & RALLY BAR) entnehmen und auf dem Konferenztisch platzieren.
 <br><br>
 <img width="400" src="https://github.com/makerspace-wi/Video-Station/assets/42463588/6f0a0488-0999-4d29-8db8-78f2f2a0b00c">
 <p>Zu diesem Zeitpunkt kann die Leinwand für den Beamer herabgelassen werden und zwar bis zur Oberkante der VS</p>
