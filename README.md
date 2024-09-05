@@ -10,13 +10,14 @@ Im Normallfall ist die Video Station (VS) verstaut und alle Zubehörteile befind
 <img width="400" alt="Box_2" src="https://github.com/makerspace-wi/Video-Station/assets/42463588/81126fa9-84d1-4a37-a64d-66546f52fdc6"><img width="400" alt="Box_2" src="https://github.com/makerspace-wi/Video-Station/assets/42463588/b03de421-ca90-4040-9b20-0db0bcbefa2a">
 <br><br>Danach die Cameraeinheit mit 2 Händen hochklappen, bis der Haltemechanismus hörbar einrastet.
 <br><br>
-<img width="600" alt="Box_2" src="https://github.com/makerspace-wi/Video-Station/assets/42463588/16d82d46-f2f5-4ba8-b351-dded89e707d5"><br>Im nächsten Schritt bitte die Abdeckungen der 2 Linsen abnehmen und im Schrank verstauen
+<img width="600" alt="Box_2" src="https://github.com/makerspace-wi/Video-Station/assets/42463588/16d82d46-f2f5-4ba8-b351-dded89e707d5">
+<br>Im nächsten Schritt bitte die Abdeckungen der 2 Linsen abnehmen und im Schrank verstauen
 <br><br>
 <img width="400" src="https://github.com/makerspace-wi/Video-Station/assets/42463588/e915e463-75de-4789-bd64-9496b1e28a1d">
 
 <img width="400" src="https://github.com/makerspace-wi/Video-Station/assets/42463588/cf03dc49-3e47-44d5-8060-15191cafe794">
 <br><br>
-Aus dem Unterschrank die beiden Tischmikrofone und die Fernsteuerungen (Beamer & RALLY BAR) entnehmen und auf dem Konferenztisch platzieren.
+Aus dem Unterschrank die beiden Tischmikrofone, die Tastatur, die Maus und die Fernsteuerungen (Beamer & RALLY BAR) entnehmen und auf dem Konferenztisch platzieren.
 <br><br>
 <img width="800" src="https://github.com/user-attachments/assets/8382349d-a55f-4a74-a242-4b702939b2f2">
 <br><br>
