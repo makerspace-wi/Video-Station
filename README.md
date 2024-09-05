@@ -12,7 +12,7 @@ Im Normallfall ist die Video Station (VS) verstaut und alle Zubehörteile befind
 <br><br>
 <img width="600" alt="Box_2" src="https://github.com/makerspace-wi/Video-Station/assets/42463588/16d82d46-f2f5-4ba8-b351-dded89e707d5"><br>Im nächsten Schritt bitte die Abdeckungen der 2 Linsen abnehmen und im Schrank verstauen
 <br><br>
-<img width="400" alt="Box_2" src="https://github.com/makerspace-wi/Video-Station/assets/42463588/e915e463-75de-4789-bd64-9496b1e28a1d"><img width="400" alt="Box_2" src="https://github.com/makerspace-wi/Video-Station/assets/42463588/cf03dc49-3e47-44d5-8060-15191cafe794">
+<img width="800" alt="Box_2" src="https://github.com/makerspace-wi/Video-Station/assets/42463588/e915e463-75de-4789-bd64-9496b1e28a1d"><img width="400" alt="Box_2" src="https://github.com/makerspace-wi/Video-Station/assets/42463588/cf03dc49-3e47-44d5-8060-15191cafe794">
 <br><br>
 Aus dem Unterschrank die beiden Tischmikrofone und die Fernsteuerungen (Beamer & RALLY BAR) entnehmen und auf dem Konferenztisch platzieren.
 <br><br>
