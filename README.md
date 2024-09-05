@@ -24,7 +24,7 @@ Aus dem Unterschrank die beiden Tischmikrofone und die Fernsteuerungen (Beamer &
 <H2>Einschalten der Anlage</H2>
 Die Steckdosenleiste mit Schalter befindet sich im Unterschrank OBEN - LINKS
 <br>
-Mit dem Einschalten der Steckdosenleise wird die RALLY BAR und auch der PC bestromt - der noch mit der rechten runden Taste aktiviert wird.
+Mit dem Einschalten der Steckdosenleise wird die RALLY BAR und auch der PC bestromt.
 <br>
 
 
