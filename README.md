@@ -27,5 +27,5 @@ Die Steckdosenleiste mit Schalter befindet sich im Unterschrank OBEN - LINKS
 <br>
 Mit dem Einschalten der Steckdosenleise wird die RALLY BAR und auch der PC bestromt.
 <br>
-Den Beamer mit der Fernsteuerung einschalten und danach mit der Taste 'Source' die Quelle 'HDMI3' wählen - dann sollte der Schreibtisch vom Rechner auf der Leinwand zu sehen sein.
+Den Beamer mit der Fernsteuerung einschalten und danach mit der Taste 'Source' die Quelle 'HDMI3' oder 'HD3' wählen - dann sollte der Schreibtisch vom Rechner auf der Leinwand zu sehen sein.
 
